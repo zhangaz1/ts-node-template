@@ -1,0 +1,19 @@
+{
+  "name": "ts-node-template",
+  "version": "1.0.0",
+  "description": "ts,node,ts-node,template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangaz1/ts-node-template.git"
+  },
+  "author": "zhangaz1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangaz1/ts-node-template/issues"
+  },
+  "homepage": "https://github.com/zhangaz1/ts-node-template#readme"
+}
