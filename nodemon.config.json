@@ -1,7 +1,7 @@
 {
 	"ignore": [],
 	"delay": 100,
-	"exec": "ts-node-paths src/index.ts",
+	"exec": "ts-node src/index.ts",
 	"watch": [
 		"src/*"
 	],
